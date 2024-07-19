@@ -1,0 +1,6 @@
+pyTelegramBotAPI==4.21.0
+python-dotenv==1.0.1
+pytubefix==6.3.4
+ffmpeg==1.4
+ffmpeg-python==0.2.0
+urllib3==1.26.11
